@@ -1,0 +1,15 @@
+C:\Users\warlo\source\repos\ConsoleApp48\bin\Debug\net6.0\ConsoleApp48.exe
+C:\Users\warlo\source\repos\ConsoleApp48\bin\Debug\net6.0\ConsoleApp48.deps.json
+C:\Users\warlo\source\repos\ConsoleApp48\bin\Debug\net6.0\ConsoleApp48.runtimeconfig.json
+C:\Users\warlo\source\repos\ConsoleApp48\bin\Debug\net6.0\ConsoleApp48.dll
+C:\Users\warlo\source\repos\ConsoleApp48\bin\Debug\net6.0\ConsoleApp48.pdb
+C:\Users\warlo\source\repos\ConsoleApp48\obj\Debug\net6.0\ConsoleApp48.csproj.AssemblyReference.cache
+C:\Users\warlo\source\repos\ConsoleApp48\obj\Debug\net6.0\ConsoleApp48.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warlo\source\repos\ConsoleApp48\obj\Debug\net6.0\ConsoleApp48.AssemblyInfoInputs.cache
+C:\Users\warlo\source\repos\ConsoleApp48\obj\Debug\net6.0\ConsoleApp48.AssemblyInfo.cs
+C:\Users\warlo\source\repos\ConsoleApp48\obj\Debug\net6.0\ConsoleApp48.csproj.CoreCompileInputs.cache
+C:\Users\warlo\source\repos\ConsoleApp48\obj\Debug\net6.0\ConsoleApp48.dll
+C:\Users\warlo\source\repos\ConsoleApp48\obj\Debug\net6.0\refint\ConsoleApp48.dll
+C:\Users\warlo\source\repos\ConsoleApp48\obj\Debug\net6.0\ConsoleApp48.pdb
+C:\Users\warlo\source\repos\ConsoleApp48\obj\Debug\net6.0\ConsoleApp48.genruntimeconfig.cache
+C:\Users\warlo\source\repos\ConsoleApp48\obj\Debug\net6.0\ref\ConsoleApp48.dll
