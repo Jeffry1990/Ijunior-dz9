@@ -6,14 +6,15 @@
         {
             string userMessage;
             int numbersOfRepeat;
-            string exit = "выход";
+            string exitCommand = "выход";
             bool isRunning = true;
 
             while (isRunning == true)
             {
-                Console.Write("Напишите любое слово для начала или выход для завершения: ");
+                Console.Write($"Напишите любое слово для начала или {exitCommand} для завершения: "); ;
                 userMessage = Console.ReadLine();
-                if (userMessage != exit)
+
+                if (userMessage != exitCommand)
                 {
                     Console.Write("Сколько раз его вывести на экран?: ");
                     numbersOfRepeat = Convert.ToInt32(Console.ReadLine());
