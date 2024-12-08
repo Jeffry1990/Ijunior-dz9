@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\warlo\\source\\repos\\ConsoleApp48\\ConsoleApp48.csproj",
-      "projectName": "ConsoleApp48",
-      "projectPath": "C:\\Users\\warlo\\source\\repos\\ConsoleApp48\\ConsoleApp48.csproj",
+      "projectUniqueName": "C:\\Users\\warlo\\source\\repos\\ConsoleApp46\\ConsoleApp46.csproj",
+      "projectName": "ConsoleApp46",
+      "projectPath": "C:\\Users\\warlo\\source\\repos\\ConsoleApp46\\ConsoleApp46.csproj",
       "packagesPath": "C:\\Users\\warlo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\warlo\\source\\repos\\ConsoleApp48\\obj\\",
+      "outputPath": "C:\\Users\\warlo\\source\\repos\\ConsoleApp46\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\warlo\\AppData\\Roaming\\NuGet\\NuGet.Config",

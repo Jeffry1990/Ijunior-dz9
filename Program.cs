@@ -1,48 +1,32 @@
-﻿namespace ConsoleApp48
+﻿namespace ConsoleApp46
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            bool isExit = false;
-            string day;
+            string userMessage;
+            int numbersOfRepeat;
+            string exit = "выход";
+            bool isRunning = true;
 
-            while (isExit == false)
+            while (isRunning == true)
             {
-                Console.WriteLine("Напишите день недели для начала программы или exit для завершения:");
-                Console.Write("");
-                day = Console.ReadLine();
-
-                switch (day)
+                Console.Write("Напишите любое слово для начала или выход для завершения: ");
+                userMessage = Console.ReadLine();
+                if (userMessage != exit)
                 {
-                    case "понедельник":
-                        Console.WriteLine("Идем в магазин");
-                        break;
-                    case "вторник":
-                        Console.WriteLine("Едем за город");
-                        break;
-                    case "среда":
-                        Console.WriteLine("Читаем книги");
-                        break;
-                    case "четверг":
-                        Console.WriteLine("Смотрим фильм");
-                        break;
-                    case "пятница":
-                        Console.WriteLine("Убираемся дома");
-                        break;
-                    case "суббота":
-                        Console.WriteLine("Идем в бассейн");
-                        break;
-                    case "воскресенье":
-                        Console.WriteLine("Выходной");
-                        break;
-                    case "exit":
-                        Console.WriteLine("выход из приложения");
-                        isExit = true;
-                        break;
-                        default: 
-                        Console.WriteLine("Нет такого дня");
-                        break;
+                    Console.Write("Сколько раз его вывести на экран?: ");
+                    numbersOfRepeat = Convert.ToInt32(Console.ReadLine());
+
+                    for (int i = 0; i < numbersOfRepeat; i++)
+                    {
+                        Console.WriteLine(userMessage);
+                    }
+                }
+                else
+                {
+                    isRunning = false;
+                    Console.WriteLine("Выход из приложения!");
                 }
             }
         }
